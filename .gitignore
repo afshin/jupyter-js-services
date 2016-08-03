@@ -6,7 +6,6 @@ typings/tsd.d.ts
 npm-debug.log
 test/build
 test/coverage
-lib
 dist
 build
 docs
